@@ -1,0 +1,6 @@
+# https://tea.xyz/paparazi
+---
+version: 1.0.0
+codeOwners:
+  - '0xcAf2658A42ce49Dfc83360324FD0651946D18A0a'
+quorum: 1
